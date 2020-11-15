@@ -9,6 +9,7 @@ var SinhVien = function () {
     this.diemLy = '';
     this.diemHoa = '';
     this.diemRenLuyen ='';
+    this.lopdfdwsfdsfed;
     this.tinhDiemTrungBinh = function (){
         var dtb = (Number(this.diemToan) + Number(this.diemLy) + Number(this.diemHoa) )/3;
         return dtb;
